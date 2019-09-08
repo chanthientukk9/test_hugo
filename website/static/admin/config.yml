@@ -1,9 +1,10 @@
 backend:
   name: github
-  repo: netlify/netlify-cms
+  repo: chanthientukk9/test_hugo
+  branch: master # Branch to update
   squash_merges: true
 
-site_url: "https://www.netlifycms.org"
+site_url: "http://localhost:3000"
 
 publish_mode: editorial_workflow
 
